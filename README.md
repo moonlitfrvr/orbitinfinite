@@ -1,21 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+Orbit is a calm and thoughtfully designed digital companion that helps you keep track of your tasks, thoughts, notes, and plans in one organized space. Instead of overwhelming you with complicated features, Orbit focuses on simplicity and comfort, making it easy to capture ideas, manage your day, and return to what matters most.
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/5fcc8980-3e14-4ebb-970d-d7c37e4ad1cf
-
-## Run Locally
-
-**Prerequisites:**  [Android Studio](https://developer.android.com/studio)
-
-
-1. Open Android Studio
-2. Select **Open** and choose the directory containing this project
-3. Allow Android Studio to fix any incompatibilities as it imports the project.
-4. Create a file named `.env` in the project directory and set `GEMINI_API_KEY` in that file to your Gemini API key (see `.env.example` for an example)
-5. Remove this line from the app's `build.gradle.kts` file: `signingConfig = signingConfigs.getByName("debugConfig")`
-6. Run the app on an emulator or physical device
+Whether you're writing down a quick to-do, using Brain Dump to turn a stream of thoughts into organized tasks, saving personal notes, or planning ahead with the calendar, Orbit is designed to feel gentle, intuitive, and stress-free. Accompanied by a friendly rabbit companion, the experience feels less like using a productivity app and more like having a quiet space that helps you stay organized, one step at a time.
