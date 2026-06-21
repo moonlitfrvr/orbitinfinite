@@ -1,0 +1,6 @@
+{
+  "name": "Orbit",
+  "description": "A calm, personal companion designed to help you organize tasks, thoughts, notes, and plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
